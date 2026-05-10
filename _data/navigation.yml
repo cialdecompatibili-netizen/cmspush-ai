@@ -1,4 +1,4 @@
-﻿main:
+main:
   - title: "Home"
     url: /
   - title: "Blog"
@@ -9,5 +9,3 @@
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Changelog"
-    url: /changelog/
